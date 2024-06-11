@@ -1,8 +1,8 @@
 # Use node image as base
-FROM node:14
+FROM node:latest
 
 # Set working directory
-WORKDIR /usr/src/app
+WORKDIR /home/app
 
 # Copy package.json and package-lock.json
 COPY package*.json ./
