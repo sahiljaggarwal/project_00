@@ -1,0 +1,1872 @@
+[
+  {
+    "name": "Afghanistan",
+    "flag": "🇦🇫",
+    "code": "AF",
+    "currencyName": "Afghan Afghani",
+    "currencySymbol": "؋",
+    "shortName": "AF",
+    "pincodeLength": 4,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Albania",
+    "flag": "🇦🇱",
+    "code": "AL",
+    "currencyName": "Albanian Lek",
+    "currencySymbol": "L",
+    "shortName": "AL",
+    "pincodeLength": 4,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Algeria",
+    "flag": "🇩🇿",
+    "code": "DZ",
+    "currencyName": "Algerian Dinar",
+    "currencySymbol": "د.ج",
+    "shortName": "DZ",
+    "pincodeLength": 5,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Andorra",
+    "flag": "🇦🇩",
+    "code": "AD",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "AD",
+    "pincodeLength": 5,
+    "phoneNumberLength": 6
+  },
+  {
+    "name": "Angola",
+    "flag": "🇦🇴",
+    "code": "AO",
+    "currencyName": "Angolan Kwanza",
+    "currencySymbol": "Kz",
+    "shortName": "AO",
+    "pincodeLength": 7,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "flag": "🇦🇬",
+    "code": "AG",
+    "currencyName": "East Caribbean Dollar",
+    "currencySymbol": "$",
+    "shortName": "AG",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Argentina",
+    "flag": "🇦🇷",
+    "code": "AR",
+    "currencyName": "Argentine Peso",
+    "currencySymbol": "$",
+    "shortName": "AR",
+    "pincodeLength": 4,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Armenia",
+    "flag": "🇦🇲",
+    "code": "AM",
+    "currencyName": "Armenian Dram",
+    "currencySymbol": "֏",
+    "shortName": "AM",
+    "pincodeLength": 4,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Australia",
+    "flag": "🇦🇺",
+    "code": "AU",
+    "currencyName": "Australian Dollar",
+    "currencySymbol": "$",
+    "shortName": "AU",
+    "pincodeLength": 4,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Austria",
+    "flag": "🇦🇹",
+    "code": "AT",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "AT",
+    "pincodeLength": 4,
+    "phoneNumberLength": 12
+  },
+  {
+    "name": "Azerbaijan",
+    "flag": "🇦🇿",
+    "code": "AZ",
+    "currencyName": "Azerbaijani Manat",
+    "currencySymbol": "₼",
+    "shortName": "AZ",
+    "pincodeLength": 4,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Bahamas",
+    "flag": "🇧🇸",
+    "code": "BS",
+    "currencyName": "Bahamian Dollar",
+    "currencySymbol": "$",
+    "shortName": "BS",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Bahrain",
+    "flag": "🇧🇭",
+    "code": "BH",
+    "currencyName": "Bahraini Dinar",
+    "currencySymbol": ".د.ب",
+    "shortName": "BH",
+    "pincodeLength": 3,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Bangladesh",
+    "flag": "🇧🇩",
+    "code": "BD",
+    "currencyName": "Bangladeshi Taka",
+    "currencySymbol": "৳",
+    "shortName": "BD",
+    "pincodeLength": 4,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Barbados",
+    "flag": "🇧🇧",
+    "code": "BB",
+    "currencyName": "Barbadian Dollar",
+    "currencySymbol": "$",
+    "shortName": "BB",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Belarus",
+    "flag": "🇧🇾",
+    "code": "BY",
+    "currencyName": "Belarusian Ruble",
+    "currencySymbol": "Br",
+    "shortName": "BY",
+    "pincodeLength": 6,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Belgium",
+    "flag": "🇧🇪",
+    "code": "BE",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "BE",
+    "pincodeLength": 4,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Belize",
+    "flag": "🇧🇿",
+    "code": "BZ",
+    "currencyName": "Belize Dollar",
+    "currencySymbol": "$",
+    "shortName": "BZ",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Benin",
+    "flag": "🇧🇯",
+    "code": "BJ",
+    "currencyName": "West African CFA Franc",
+    "currencySymbol": "CFA",
+    "shortName": "BJ",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Bhutan",
+    "flag": "🇧🇹",
+    "code": "BT",
+    "currencyName": "Bhutanese Ngultrum",
+    "currencySymbol": "Nu.",
+    "shortName": "BT",
+    "pincodeLength": 6,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Bolivia",
+    "flag": "🇧🇴",
+    "code": "BO",
+    "currencyName": "Bolivian Boliviano",
+    "currencySymbol": "Bs.",
+    "shortName": "BO",
+    "pincodeLength": 4,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "flag": "🇧🇦",
+    "code": "BA",
+    "currencyName": "Bosnia and Herzegovina Convertible Mark",
+    "currencySymbol": "KM",
+    "shortName": "BA",
+    "pincodeLength": 5,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Botswana",
+    "flag": "🇧🇼",
+    "code": "BW",
+    "currencyName": "Botswana Pula",
+    "currencySymbol": "P",
+    "shortName": "BW",
+    "pincodeLength": 5,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Brazil",
+    "flag": "🇧🇷",
+    "code": "BR",
+    "currencyName": "Brazilian Real",
+    "currencySymbol": "R$",
+    "shortName": "BR",
+    "pincodeLength": 8,
+    "phoneNumberLength": 11
+  },
+  {
+    "name": "Brunei Darussalam",
+    "flag": "🇧🇳",
+    "code": "BN",
+    "currencyName": "Brunei Dollar",
+    "currencySymbol": "$",
+    "shortName": "BN",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Bulgaria",
+    "flag": "🇧🇬",
+    "code": "BG",
+    "currencyName": "Bulgarian Lev",
+    "currencySymbol": "лв",
+    "shortName": "BG",
+    "pincodeLength": 4,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Burkina Faso",
+    "flag": "🇧🇫",
+    "code": "BF",
+    "currencyName": "West African CFA Franc",
+    "currencySymbol": "CFA",
+    "shortName": "BF",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Burundi",
+    "flag": "🇧🇮",
+    "code": "BI",
+    "currencyName": "Burundian Franc",
+    "currencySymbol": "FBu",
+    "shortName": "BI",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Cabo Verde",
+    "flag": "🇨🇻",
+    "code": "CV",
+    "currencyName": "Cape Verdean Escudo",
+    "currencySymbol": "Esc",
+    "shortName": "CV",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Cambodia",
+    "flag": "🇰🇭",
+    "code": "KH",
+    "currencyName": "Cambodian Riel",
+    "currencySymbol": "៛",
+    "shortName": "KH",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Cameroon",
+    "flag": "🇨🇲",
+    "code": "CM",
+    "currencyName": "Central African CFA Franc",
+    "currencySymbol": "FCFA",
+    "shortName": "CM",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Canada",
+    "flag": "🇨🇦",
+    "code": "CA",
+    "currencyName": "Canadian Dollar",
+    "currencySymbol": "$",
+    "shortName": "CA",
+    "pincodeLength": 6,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Central African Republic",
+    "flag": "🇨🇫",
+    "code": "CF",
+    "currencyName": "Central African CFA Franc",
+    "currencySymbol": "FCFA",
+    "shortName": "CF",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Chad",
+    "flag": "🇹🇩",
+    "code": "TD",
+    "currencyName": "Central African CFA Franc",
+    "currencySymbol": "FCFA",
+    "shortName": "TD",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Chile",
+    "flag": "🇨🇱",
+    "code": "CL",
+    "currencyName": "Chilean Peso",
+    "currencySymbol": "$",
+    "shortName": "CL",
+    "pincodeLength": 7,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "China",
+    "flag": "🇨🇳",
+    "code": "CN",
+    "currencyName": "Chinese Yuan Renminbi",
+    "currencySymbol": "¥",
+    "shortName": "CN",
+    "pincodeLength": 6,
+    "phoneNumberLength": 11
+  },
+  {
+    "name": "Colombia",
+    "flag": "🇨🇴",
+    "code": "CO",
+    "currencyName": "Colombian Peso",
+    "currencySymbol": "$",
+    "shortName": "CO",
+    "pincodeLength": 6,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Comoros",
+    "flag": "🇰🇲",
+    "code": "KM",
+    "currencyName": "Comorian Franc",
+    "currencySymbol": "CF",
+    "shortName": "KM",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Congo",
+    "flag": "🇨🇬",
+    "code": "CG",
+    "currencyName": "Congolese Franc",
+    "currencySymbol": "FC",
+    "shortName": "CG",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Costa Rica",
+    "flag": "🇨🇷",
+    "code": "CR",
+    "currencyName": "Costa Rican Colon",
+    "currencySymbol": "₡",
+    "shortName": "CR",
+    "pincodeLength": 5,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Croatia",
+    "flag": "🇭🇷",
+    "code": "HR",
+    "currencyName": "Croatian Kuna",
+    "currencySymbol": "kn",
+    "shortName": "HR",
+    "pincodeLength": 5,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Cuba",
+    "flag": "🇨🇺",
+    "code": "CU",
+    "currencyName": "Cuban Peso",
+    "currencySymbol": "$",
+    "shortName": "CU",
+    "pincodeLength": 5,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Cyprus",
+    "flag": "🇨🇾",
+    "code": "CY",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "CY",
+    "pincodeLength": 4,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Czech Republic",
+    "flag": "🇨🇿",
+    "code": "CZ",
+    "currencyName": "Czech Koruna",
+    "currencySymbol": "Kč",
+    "shortName": "CZ",
+    "pincodeLength": 5,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Denmark",
+    "flag": "🇩🇰",
+    "code": "DK",
+    "currencyName": "Danish Krone",
+    "currencySymbol": "kr",
+    "shortName": "DK",
+    "pincodeLength": 4,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Djibouti",
+    "flag": "🇩🇯",
+    "code": "DJ",
+    "currencyName": "Djiboutian Franc",
+    "currencySymbol": "Fdj",
+    "shortName": "DJ",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Dominica",
+    "flag": "🇩🇲",
+    "code": "DM",
+    "currencyName": "East Caribbean Dollar",
+    "currencySymbol": "$",
+    "shortName": "DM",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Ecuador",
+    "flag": "🇪🇨",
+    "code": "EC",
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "shortName": "EC",
+    "pincodeLength": 6,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Egypt",
+    "flag": "🇪🇬",
+    "code": "EG",
+    "currencyName": "Egyptian Pound",
+    "currencySymbol": "E£",
+    "shortName": "EG",
+    "pincodeLength": 5,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "El Salvador",
+    "flag": "🇸🇻",
+    "code": "SV",
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "shortName": "SV",
+    "pincodeLength": 4,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Equatorial Guinea",
+    "flag": "🇬🇶",
+    "code": "GQ",
+    "currencyName": "Central African CFA Franc",
+    "currencySymbol": "FCFA",
+    "shortName": "GQ",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Eritrea",
+    "flag": "🇪🇷",
+    "code": "ER",
+    "currencyName": "Eritrean Nakfa",
+    "currencySymbol": "Nfk",
+    "shortName": "ER",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Estonia",
+    "flag": "🇪🇪",
+    "code": "EE",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "EE",
+    "pincodeLength": 5,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Eswatini",
+    "flag": "🇸🇿",
+    "code": "SZ",
+    "currencyName": "Swazi Lilangeni",
+    "currencySymbol": "E",
+    "shortName": "SZ",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Ethiopia",
+    "flag": "🇪🇹",
+    "code": "ET",
+    "currencyName": "Ethiopian Birr",
+    "currencySymbol": "Br",
+    "shortName": "ET",
+    "pincodeLength": 4,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Fiji",
+    "flag": "🇫🇯",
+    "code": "FJ",
+    "currencyName": "Fijian Dollar",
+    "currencySymbol": "$",
+    "shortName": "FJ",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Finland",
+    "flag": "🇫🇮",
+    "code": "FI",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "FI",
+    "pincodeLength": 5,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "France",
+    "flag": "🇫🇷",
+    "code": "FR",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "FR",
+    "pincodeLength": 5,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Gabon",
+    "flag": "🇬🇦",
+    "code": "GA",
+    "currencyName": "Central African CFA Franc",
+    "currencySymbol": "FCFA",
+    "shortName": "GA",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Gambia",
+    "flag": "🇬🇲",
+    "code": "GM",
+    "currencyName": "Gambian Dalasi",
+    "currencySymbol": "D",
+    "shortName": "GM",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Georgia",
+    "flag": "🇬🇪",
+    "code": "GE",
+    "currencyName": "Georgian Lari",
+    "currencySymbol": "ლ",
+    "shortName": "GE",
+    "pincodeLength": 4,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Germany",
+    "flag": "🇩🇪",
+    "code": "DE",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "DE",
+    "pincodeLength": 5,
+    "phoneNumberLength": 11
+  },
+  {
+    "name": "Ghana",
+    "flag": "🇬🇭",
+    "code": "GH",
+    "currencyName": "Ghanaian Cedi",
+    "currencySymbol": "₵",
+    "shortName": "GH",
+    "pincodeLength": 0,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Greece",
+    "flag": "🇬🇷",
+    "code": "GR",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "GR",
+    "pincodeLength": 5,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Grenada",
+    "flag": "🇬🇩",
+    "code": "GD",
+    "currencyName": "East Caribbean Dollar",
+    "currencySymbol": "$",
+    "shortName": "GD",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Guatemala",
+    "flag": "🇬🇹",
+    "code": "GT",
+    "currencyName": "Guatemalan Quetzal",
+    "currencySymbol": "Q",
+    "shortName": "GT",
+    "pincodeLength": 5,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Guinea",
+    "flag": "🇬🇳",
+    "code": "GN",
+    "currencyName": "Guinean Franc",
+    "currencySymbol": "FG",
+    "shortName": "GN",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Guinea-Bissau",
+    "flag": "🇬🇼",
+    "code": "GW",
+    "currencyName": "West African CFA Franc",
+    "currencySymbol": "CFA",
+    "shortName": "GW",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Guyana",
+    "flag": "🇬🇾",
+    "code": "GY",
+    "currencyName": "Guyanese Dollar",
+    "currencySymbol": "$",
+    "shortName": "GY",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Haiti",
+    "flag": "🇭🇹",
+    "code": "HT",
+    "currencyName": "Haitian Gourde",
+    "currencySymbol": "G",
+    "shortName": "HT",
+    "pincodeLength": 4,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Honduras",
+    "flag": "🇭🇳",
+    "code": "HN",
+    "currencyName": "Honduran Lempira",
+    "currencySymbol": "L",
+    "shortName": "HN",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Hungary",
+    "flag": "🇭🇺",
+    "code": "HU",
+    "currencyName": "Hungarian Forint",
+    "currencySymbol": "Ft",
+    "shortName": "HU",
+    "pincodeLength": 4,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Iceland",
+    "flag": "🇮🇸",
+    "code": "IS",
+    "currencyName": "Icelandic Króna",
+    "currencySymbol": "kr",
+    "shortName": "IS",
+    "pincodeLength": 3,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "India",
+    "flag": "🇮🇳",
+    "code": "IN",
+    "currencyName": "Indian Rupee",
+    "currencySymbol": "₹",
+    "shortName": "IN",
+    "pincodeLength": 6,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Indonesia",
+    "flag": "🇮🇩",
+    "code": "ID",
+    "currencyName": "Indonesian Rupiah",
+    "currencySymbol": "Rp",
+    "shortName": "ID",
+    "pincodeLength": 5,
+    "phoneNumberLength": 11
+  },
+  {
+    "name": "Iran",
+    "flag": "🇮🇷",
+    "code": "IR",
+    "currencyName": "Iranian Rial",
+    "currencySymbol": "﷼",
+    "shortName": "IR",
+    "pincodeLength": 0,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Iraq",
+    "flag": "🇮🇶",
+    "code": "IQ",
+    "currencyName": "Iraqi Dinar",
+    "currencySymbol": "ع.د",
+    "shortName": "IQ",
+    "pincodeLength": 0,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Ireland",
+    "flag": "🇮🇪",
+    "code": "IE",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "IE",
+    "pincodeLength": 7,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Israel",
+    "flag": "🇮🇱",
+    "code": "IL",
+    "currencyName": "Israeli New Shekel",
+    "currencySymbol": "₪",
+    "shortName": "IL",
+    "pincodeLength": 7,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Italy",
+    "flag": "🇮🇹",
+    "code": "IT",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "IT",
+    "pincodeLength": 5,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Jamaica",
+    "flag": "🇯🇲",
+    "code": "JM",
+    "currencyName": "Jamaican Dollar",
+    "currencySymbol": "J$",
+    "shortName": "JM",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Japan",
+    "flag": "🇯🇵",
+    "code": "JP",
+    "currencyName": "Japanese Yen",
+    "currencySymbol": "¥",
+    "shortName": "JP",
+    "pincodeLength": 7,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Jordan",
+    "flag": "🇯🇴",
+    "code": "JO",
+    "currencyName": "Jordanian Dinar",
+    "currencySymbol": "د.ا",
+    "shortName": "JO",
+    "pincodeLength": 5,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Kazakhstan",
+    "flag": "🇰🇿",
+    "code": "KZ",
+    "currencyName": "Kazakhstani Tenge",
+    "currencySymbol": "₸",
+    "shortName": "KZ",
+    "pincodeLength": 6,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Kenya",
+    "flag": "🇰🇪",
+    "code": "KE",
+    "currencyName": "Kenyan Shilling",
+    "currencySymbol": "KSh",
+    "shortName": "KE",
+    "pincodeLength": 5,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Kiribati",
+    "flag": "🇰🇮",
+    "code": "KI",
+    "currencyName": "Australian Dollar",
+    "currencySymbol": "$",
+    "shortName": "KI",
+    "pincodeLength": 0,
+    "phoneNumberLength": 5
+  },
+  {
+    "name": "Korea (North)",
+    "flag": "🇰🇵",
+    "code": "KP",
+    "currencyName": "North Korean Won",
+    "currencySymbol": "₩",
+    "shortName": "KP",
+    "pincodeLength": 6,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Korea (South)",
+    "flag": "🇰🇷",
+    "code": "KR",
+    "currencyName": "South Korean Won",
+    "currencySymbol": "₩",
+    "shortName": "KR",
+    "pincodeLength": 5,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Kuwait",
+    "flag": "🇰🇼",
+    "code": "KW",
+    "currencyName": "Kuwaiti Dinar",
+    "currencySymbol": "د.ك",
+    "shortName": "KW",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Kyrgyzstan",
+    "flag": "🇰🇬",
+    "code": "KG",
+    "currencyName": "Kyrgyzstani Som",
+    "currencySymbol": "сом",
+    "shortName": "KG",
+    "pincodeLength": 6,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Laos",
+    "flag": "🇱🇦",
+    "code": "LA",
+    "currencyName": "Lao Kip",
+    "currencySymbol": "₭",
+    "shortName": "LA",
+    "pincodeLength": 5,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Latvia",
+    "flag": "🇱🇻",
+    "code": "LV",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "LV",
+    "pincodeLength": 4,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Lebanon",
+    "flag": "🇱🇧",
+    "code": "LB",
+    "currencyName": "Lebanese Pound",
+    "currencySymbol": "ل.ل",
+    "shortName": "LB",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Lesotho",
+    "flag": "🇱🇸",
+    "code": "LS",
+    "currencyName": "Lesotho Loti",
+    "currencySymbol": "L",
+    "shortName": "LS",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Liberia",
+    "flag": "🇱🇷",
+    "code": "LR",
+    "currencyName": "Liberian Dollar",
+    "currencySymbol": "$",
+    "shortName": "LR",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Libya",
+    "flag": "🇱🇾",
+    "code": "LY",
+    "currencyName": "Libyan Dinar",
+    "currencySymbol": "ل.د",
+    "shortName": "LY",
+    "pincodeLength": 5,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Liechtenstein",
+    "flag": "🇱🇮",
+    "code": "LI",
+    "currencyName": "Swiss Franc",
+    "currencySymbol": "CHF",
+    "shortName": "LI",
+    "pincodeLength": 4,
+    "phoneNumberLength": 12
+  },
+  {
+    "name": "Lithuania",
+    "flag": "🇱🇹",
+    "code": "LT",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "LT",
+    "pincodeLength": 5,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Luxembourg",
+    "flag": "🇱🇺",
+    "code": "LU",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "LU",
+    "pincodeLength": 4,
+    "phoneNumberLength": 11
+  },
+  {
+    "name": "Madagascar",
+    "flag": "🇲🇬",
+    "code": "MG",
+    "currencyName": "Malagasy Ariary",
+    "currencySymbol": "Ar",
+    "shortName": "MG",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Malawi",
+    "flag": "🇲🇼",
+    "code": "MW",
+    "currencyName": "Malawian Kwacha",
+    "currencySymbol": "MK",
+    "shortName": "MW",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Malaysia",
+    "flag": "🇲🇾",
+    "code": "MY",
+    "currencyName": "Malaysian Ringgit",
+    "currencySymbol": "RM",
+    "shortName": "MY",
+    "pincodeLength": 5,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Maldives",
+    "flag": "🇲🇻",
+    "code": "MV",
+    "currencyName": "Maldivian Rufiyaa",
+    "currencySymbol": "Rf",
+    "shortName": "MV",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Mali",
+    "flag": "🇲🇱",
+    "code": "ML",
+    "currencyName": "West African CFA Franc",
+    "currencySymbol": "CFA",
+    "shortName": "ML",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Malta",
+    "flag": "🇲🇹",
+    "code": "MT",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "MT",
+    "pincodeLength": 4,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Marshall Islands",
+    "flag": "🇲🇭",
+    "code": "MH",
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "shortName": "MH",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Mauritania",
+    "flag": "🇲🇷",
+    "code": "MR",
+    "currencyName": "Mauritanian Ouguiya",
+    "currencySymbol": "MRU",
+    "shortName": "MR",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Mauritius",
+    "flag": "🇲🇺",
+    "code": "MU",
+    "currencyName": "Mauritian Rupee",
+    "currencySymbol": "₨",
+    "shortName": "MU",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Mexico",
+    "flag": "🇲🇽",
+    "code": "MX",
+    "currencyName": "Mexican Peso",
+    "currencySymbol": "$",
+    "shortName": "MX",
+    "pincodeLength": 5,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Namibia",
+    "flag": "🇳🇦",
+    "code": "NA",
+    "currencyName": "Namibian Dollar",
+    "currencySymbol": "$",
+    "shortName": "NA",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Nauru",
+    "flag": "🇳🇷",
+    "code": "NR",
+    "currencyName": "Australian Dollar",
+    "currencySymbol": "$",
+    "shortName": "NR",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Nepal",
+    "flag": "🇳🇵",
+    "code": "NP",
+    "currencyName": "Nepalese Rupee",
+    "currencySymbol": "₨",
+    "shortName": "NP",
+    "pincodeLength": 5,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Netherlands",
+    "flag": "🇳🇱",
+    "code": "NL",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "NL",
+    "pincodeLength": 6,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "New Zealand",
+    "flag": "🇳🇿",
+    "code": "NZ",
+    "currencyName": "New Zealand Dollar",
+    "currencySymbol": "$",
+    "shortName": "NZ",
+    "pincodeLength": 4,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Nicaragua",
+    "flag": "🇳🇮",
+    "code": "NI",
+    "currencyName": "Nicaraguan Córdoba",
+    "currencySymbol": "C$",
+    "shortName": "NI",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Niger",
+    "flag": "🇳🇪",
+    "code": "NE",
+    "currencyName": "West African CFA Franc",
+    "currencySymbol": "CFA",
+    "shortName": "NE",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Nigeria",
+    "flag": "🇳🇬",
+    "code": "NG",
+    "currencyName": "Nigerian Naira",
+    "currencySymbol": "₦",
+    "shortName": "NG",
+    "pincodeLength": 6,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "North Macedonia",
+    "flag": "🇲🇰",
+    "code": "MK",
+    "currencyName": "Macedonian Denar",
+    "currencySymbol": "ден",
+    "shortName": "MK",
+    "pincodeLength": 4,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Norway",
+    "flag": "🇳🇴",
+    "code": "NO",
+    "currencyName": "Norwegian Krone",
+    "currencySymbol": "kr",
+    "shortName": "NO",
+    "pincodeLength": 4,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Oman",
+    "flag": "🇴🇲",
+    "code": "OM",
+    "currencyName": "Omani Rial",
+    "currencySymbol": "ر.ع.",
+    "shortName": "OM",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Pakistan",
+    "flag": "🇵🇰",
+    "code": "PK",
+    "currencyName": "Pakistani Rupee",
+    "currencySymbol": "₨",
+    "shortName": "PK",
+    "pincodeLength": 5,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Palau",
+    "flag": "🇵🇼",
+    "code": "PW",
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "shortName": "PW",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Palestine",
+    "flag": "🇵🇸",
+    "code": "PS",
+    "currencyName": "Israeli New Shekel",
+    "currencySymbol": "₪",
+    "shortName": "PS",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Panama",
+    "flag": "🇵🇦",
+    "code": "PA",
+    "currencyName": "Panamanian Balboa",
+    "currencySymbol": "B/.",
+    "shortName": "PA",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Papua New Guinea",
+    "flag": "🇵🇬",
+    "code": "PG",
+    "currencyName": "Papua New Guinean Kina",
+    "currencySymbol": "K",
+    "shortName": "PG",
+    "pincodeLength": 3,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Paraguay",
+    "flag": "🇵🇾",
+    "code": "PY",
+    "currencyName": "Paraguayan Guarani",
+    "currencySymbol": "₲",
+    "shortName": "PY",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Peru",
+    "flag": "🇵🇪",
+    "code": "PE",
+    "currencyName": "Peruvian Sol",
+    "currencySymbol": "S/.",
+    "shortName": "PE",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Philippines",
+    "flag": "🇵🇭",
+    "code": "PH",
+    "currencyName": "Philippine Peso",
+    "currencySymbol": "₱",
+    "shortName": "PH",
+    "pincodeLength": 4,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Poland",
+    "flag": "🇵🇱",
+    "code": "PL",
+    "currencyName": "Polish Zloty",
+    "currencySymbol": "zł",
+    "shortName": "PL",
+    "pincodeLength": 5,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Portugal",
+    "flag": "🇵🇹",
+    "code": "PT",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "PT",
+    "pincodeLength": 4,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Qatar",
+    "flag": "🇶🇦",
+    "code": "QA",
+    "currencyName": "Qatari Riyal",
+    "currencySymbol": "ر.ق",
+    "shortName": "QA",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Romania",
+    "flag": "🇷🇴",
+    "code": "RO",
+    "currencyName": "Romanian Leu",
+    "currencySymbol": "lei",
+    "shortName": "RO",
+    "pincodeLength": 6,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Russia",
+    "flag": "🇷🇺",
+    "code": "RU",
+    "currencyName": "Russian Ruble",
+    "currencySymbol": "₽",
+    "shortName": "RU",
+    "pincodeLength": 6,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Rwanda",
+    "flag": "🇷🇼",
+    "code": "RW",
+    "currencyName": "Rwandan Franc",
+    "currencySymbol": "FRw",
+    "shortName": "RW",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "flag": "🇰🇳",
+    "code": "KN",
+    "currencyName": "East Caribbean Dollar",
+    "currencySymbol": "$",
+    "shortName": "KN",
+    "pincodeLength": 0,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Saint Lucia",
+    "flag": "🇱🇨",
+    "code": "LC",
+    "currencyName": "East Caribbean Dollar",
+    "currencySymbol": "$",
+    "shortName": "LC",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "flag": "🇻🇨",
+    "code": "VC",
+    "currencyName": "East Caribbean Dollar",
+    "currencySymbol": "$",
+    "shortName": "VC",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Samoa",
+    "flag": "🇼🇸",
+    "code": "WS",
+    "currencyName": "Samoan Tala",
+    "currencySymbol": "T",
+    "shortName": "WS",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "San Marino",
+    "flag": "🇸🇲",
+    "code": "SM",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "SM",
+    "pincodeLength": 5,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "flag": "🇸🇹",
+    "code": "ST",
+    "currencyName": "São Tomé and Príncipe Dobra",
+    "currencySymbol": "Db",
+    "shortName": "ST",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Saudi Arabia",
+    "flag": "🇸🇦",
+    "code": "SA",
+    "currencyName": "Saudi Riyal",
+    "currencySymbol": "﷼",
+    "shortName": "SA",
+    "pincodeLength": 5,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Senegal",
+    "flag": "🇸🇳",
+    "code": "SN",
+    "currencyName": "West African CFA Franc",
+    "currencySymbol": "CFA",
+    "shortName": "SN",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Serbia",
+    "flag": "🇷🇸",
+    "code": "RS",
+    "currencyName": "Serbian Dinar",
+    "currencySymbol": "дин.",
+    "shortName": "RS",
+    "pincodeLength": 5,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Seychelles",
+    "flag": "🇸🇨",
+    "code": "SC",
+    "currencyName": "Seychellois Rupee",
+    "currencySymbol": "₨",
+    "shortName": "SC",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Sierra Leone",
+    "flag": "🇸🇱",
+    "code": "SL",
+    "currencyName": "Sierra Leonean Leone",
+    "currencySymbol": "Le",
+    "shortName": "SL",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Singapore",
+    "flag": "🇸🇬",
+    "code": "SG",
+    "currencyName": "Singapore Dollar",
+    "currencySymbol": "$",
+    "shortName": "SG",
+    "pincodeLength": 6,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Slovakia",
+    "flag": "🇸🇰",
+    "code": "SK",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "SK",
+    "pincodeLength": 5,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Slovenia",
+    "flag": "🇸🇮",
+    "code": "SI",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "SI",
+    "pincodeLength": 4,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Solomon Islands",
+    "flag": "🇸🇧",
+    "code": "SB",
+    "currencyName": "Solomon Islands Dollar",
+    "currencySymbol": "$",
+    "shortName": "SB",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Somalia",
+    "flag": "🇸🇴",
+    "code": "SO",
+    "currencyName": "Somali Shilling",
+    "currencySymbol": "Sh",
+    "shortName": "SO",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "South Africa",
+    "flag": "🇿🇦",
+    "code": "ZA",
+    "currencyName": "South African Rand",
+    "currencySymbol": "R",
+    "shortName": "ZA",
+    "pincodeLength": 4,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "South Korea",
+    "flag": "🇰🇷",
+    "code": "KR",
+    "currencyName": "South Korean Won",
+    "currencySymbol": "₩",
+    "shortName": "KR",
+    "pincodeLength": 5,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "South Sudan",
+    "flag": "🇸🇸",
+    "code": "SS",
+    "currencyName": "South Sudanese Pound",
+    "currencySymbol": "£",
+    "shortName": "SS",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Spain",
+    "flag": "🇪🇸",
+    "code": "ES",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "ES",
+    "pincodeLength": 5,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Sri Lanka",
+    "flag": "🇱🇰",
+    "code": "LK",
+    "currencyName": "Sri Lankan Rupee",
+    "currencySymbol": "₨",
+    "shortName": "LK",
+    "pincodeLength": 5,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Sudan",
+    "flag": "🇸🇩",
+    "code": "SD",
+    "currencyName": "Sudanese Pound",
+    "currencySymbol": "£",
+    "shortName": "SD",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Suriname",
+    "flag": "🇸🇷",
+    "code": "SR",
+    "currencyName": "Surinamese Dollar",
+    "currencySymbol": "$",
+    "shortName": "SR",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Sweden",
+    "flag": "🇸🇪",
+    "code": "SE",
+    "currencyName": "Swedish Krona",
+    "currencySymbol": "kr",
+    "shortName": "SE",
+    "pincodeLength": 5,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Switzerland",
+    "flag": "🇨🇭",
+    "code": "CH",
+    "currencyName": "Swiss Franc",
+    "currencySymbol": "CHF",
+    "shortName": "CH",
+    "pincodeLength": 4,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Syria",
+    "flag": "🇸🇾",
+    "code": "SY",
+    "currencyName": "Syrian Pound",
+    "currencySymbol": "£S",
+    "shortName": "SY",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Taiwan",
+    "flag": "🇹🇼",
+    "code": "TW",
+    "currencyName": "New Taiwan Dollar",
+    "currencySymbol": "NT$",
+    "shortName": "TW",
+    "pincodeLength": 5,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Tajikistan",
+    "flag": "🇹🇯",
+    "code": "TJ",
+    "currencyName": "Tajikistani Somoni",
+    "currencySymbol": "ЅМ",
+    "shortName": "TJ",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Tanzania",
+    "flag": "🇹🇿",
+    "code": "TZ",
+    "currencyName": "Tanzanian Shilling",
+    "currencySymbol": "TSh",
+    "shortName": "TZ",
+    "pincodeLength": 0,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Thailand",
+    "flag": "🇹🇭",
+    "code": "TH",
+    "currencyName": "Thai Baht",
+    "currencySymbol": "฿",
+    "shortName": "TH",
+    "pincodeLength": 5,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Timor-Leste",
+    "flag": "🇹🇱",
+    "code": "TL",
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "shortName": "TL",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Togo",
+    "flag": "🇹🇬",
+    "code": "TG",
+    "currencyName": "West African CFA Franc",
+    "currencySymbol": "CFA",
+    "shortName": "TG",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Tonga",
+    "flag": "🇹🇴",
+    "code": "TO",
+    "currencyName": "Tongan Paʻanga",
+    "currencySymbol": "T$",
+    "shortName": "TO",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "flag": "🇹🇹",
+    "code": "TT",
+    "currencyName": "Trinidad and Tobago Dollar",
+    "currencySymbol": "TT$",
+    "shortName": "TT",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Tunisia",
+    "flag": "🇹🇳",
+    "code": "TN",
+    "currencyName": "Tunisian Dinar",
+    "currencySymbol": "د.ت",
+    "shortName": "TN",
+    "pincodeLength": 4,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Turkey",
+    "flag": "🇹🇷",
+    "code": "TR",
+    "currencyName": "Turkish Lira",
+    "currencySymbol": "₺",
+    "shortName": "TR",
+    "pincodeLength": 5,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Turkmenistan",
+    "flag": "🇹🇲",
+    "code": "TM",
+    "currencyName": "Turkmenistan Manat",
+    "currencySymbol": "TMT",
+    "shortName": "TM",
+    "pincodeLength": 0,
+    "phoneNumberLength": 8
+  },
+  {
+    "name": "Tuvalu",
+    "flag": "🇹🇻",
+    "code": "TV",
+    "currencyName": "Australian Dollar",
+    "currencySymbol": "$",
+    "shortName": "TV",
+    "pincodeLength": 0,
+    "phoneNumberLength": 5
+  },
+  {
+    "name": "Uganda",
+    "flag": "🇺🇬",
+    "code": "UG",
+    "currencyName": "Ugandan Shilling",
+    "currencySymbol": "USh",
+    "shortName": "UG",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Ukraine",
+    "flag": "🇺🇦",
+    "code": "UA",
+    "currencyName": "Ukrainian Hryvnia",
+    "currencySymbol": "₴",
+    "shortName": "UA",
+    "pincodeLength": 5,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "United Arab Emirates",
+    "flag": "🇦🇪",
+    "code": "AE",
+    "currencyName": "United Arab Emirates Dirham",
+    "currencySymbol": "د.إ",
+    "shortName": "AE",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "United Kingdom",
+    "flag": "🇬🇧",
+    "code": "GB",
+    "currencyName": "British Pound Sterling",
+    "currencySymbol": "£",
+    "shortName": "GB",
+    "pincodeLength": 7,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "United States",
+    "flag": "🇺🇸",
+    "code": "US",
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "shortName": "US",
+    "pincodeLength": 5,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Uruguay",
+    "flag": "🇺🇾",
+    "code": "UY",
+    "currencyName": "Uruguayan Peso",
+    "currencySymbol": "$U",
+    "shortName": "UY",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Uzbekistan",
+    "flag": "🇺🇿",
+    "code": "UZ",
+    "currencyName": "Uzbekistani Som",
+    "currencySymbol": "so'm",
+    "shortName": "UZ",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Vanuatu",
+    "flag": "🇻🇺",
+    "code": "VU",
+    "currencyName": "Vanuatu Vatu",
+    "currencySymbol": "VT",
+    "shortName": "VU",
+    "pincodeLength": 0,
+    "phoneNumberLength": 7
+  },
+  {
+    "name": "Vatican City",
+    "flag": "🇻🇦",
+    "code": "VA",
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "shortName": "VA",
+    "pincodeLength": 5,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Venezuela",
+    "flag": "🇻🇪",
+    "code": "VE",
+    "currencyName": "Venezuelan Bolívar",
+    "currencySymbol": "Bs.S.",
+    "shortName": "VE",
+    "pincodeLength": 0,
+    "phoneNumberLength": 10
+  },
+  {
+    "name": "Vietnam",
+    "flag": "🇻🇳",
+    "code": "VN",
+    "currencyName": "Vietnamese Dong",
+    "currencySymbol": "₫",
+    "shortName": "VN",
+    "pincodeLength": 6,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Wallis and Futuna",
+    "flag": "🇼🇫",
+    "code": "WF",
+    "currencyName": "CFP Franc",
+    "currencySymbol": "₣",
+    "shortName": "WF",
+    "pincodeLength": 0,
+    "phoneNumberLength": 6
+  },
+  {
+    "name": "Yemen",
+    "flag": "🇾🇪",
+    "code": "YE",
+    "currencyName": "Yemeni Rial",
+    "currencySymbol": "﷼",
+    "shortName": "YE",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Zambia",
+    "flag": "🇿🇲",
+    "code": "ZM",
+    "currencyName": "Zambian Kwacha",
+    "currencySymbol": "ZK",
+    "shortName": "ZM",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  },
+  {
+    "name": "Zimbabwe",
+    "flag": "🇿🇼",
+    "code": "ZW",
+    "currencyName": "Zimbabwean Dollar",
+    "currencySymbol": "$",
+    "shortName": "ZW",
+    "pincodeLength": 0,
+    "phoneNumberLength": 9
+  }
+]
